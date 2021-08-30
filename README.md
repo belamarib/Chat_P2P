@@ -1,7 +1,9 @@
 # Chat_P2P
-Mini projeto prático (MPP4) desenvolvido na disciplina de Infraestrutura de Comunicação (IF678) do semestre 2020.2, que consiste no estabelecimento de uma conexão TCP entre dois clientes e um servidor, o qual conecta os dois clientes e a conexão passa a ser P2P, com troca de mensagens.
+Mini projeto prático (MPP4) desenvolvido na disciplina de Infraestrutura de Comunicação (IF678) do semestre 2020.2 de Ciência da Computação (UFPE).
 
-Esse projeto foi desenvolvido em Java e possui uma interface gráfica, com cada mensagem numerada e marcada com data e hora.
+O projeto consiste em um chat P2P entre dois clientes que se conectam inicialmente através de um servidor. Ele possui interface gráfica feita com a biblioteca Java Swing e tem o uso de threads.
+
+Cada mensagem enviada por um cliente é numerada e marcada com data e hora.
 
 Ordem de execução:
 1. Servidor
